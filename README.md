@@ -3,6 +3,11 @@
 
 This project is part of my journey as a Frontend Developer Intern at **CodeVeda Technologies**. This specific task (Task 3 in Phase 3) focuses on implementing high-performance, interactive web animations using **GSAP (GreenSock Animation Platform)**.
 
+## 🔗 Live Demo
+**Check out the live project here:** [https://nourhan-essam.github.io/GSAP/]
+
+---
+
 ## 🛠️ Task Requirements & Implementation
 
 ### 1. Utilizing Advanced Timelines
